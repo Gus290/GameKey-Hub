@@ -1,0 +1,6 @@
+﻿flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/images/gamekey_app_icon.png"
+  adaptive_icon_background: "#142777"
+  adaptive_icon_foreground: "assets/images/gamekey_app_icon.png"
